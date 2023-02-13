@@ -14,16 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I am <a href="https://www.linkedin.com/in/ashwanisng">Ashwani</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+# Hello, I am <a href="https://www.linkedin.com/in/ashwanisng">Safarmurod</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 ![](https://activity-graph.herokuapp.com/graph?username=ashwanisng&theme=react-dark&hide_border=true&area=true)
 
 ## About
 
-I am Ashwani Kumar Singh. I am a mobile engineer at Squareboat. I am a 2022 batch passed out and have a total of 8 months of internship experience. I published one of my cross-platform applications, "Your Coin," built with Flutter when I was in my 3rd year of college. Your Coin is available on [Google Play](https://play.google.com/store/apps/details?id=com.ashwanisng.your_coin). I also actively participate in open source programmes like Girl Script Summer of Code, Student Code-in and PClub Summer of Code.
+I am Ashurov Safarmurod. 
 
-I am passionate about making cross-platform apps with Flutter and open source. I also have some experience in data analysis and machine learning. I have also published a few articles on [Medium](https://medium.com/@ashwanisng).
-
+I am passionate about making cross-platform apps with .Net and open source. 
 <table>
   <tr>
       <td><a href="https://github.com/ashwanisng"><img src="https://img.shields.io/github/followers/ashwanisng.svg?label=GitHub&style=social" alt="GitHub"></a></td>
