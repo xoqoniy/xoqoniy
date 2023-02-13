@@ -80,7 +80,7 @@ I am passionate about making cross-platform apps with .Net and open source.
 <br>
  <a href="">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Safarmurod7&repo=Covid-19-Data-Analysis&theme=light" />
  </a>
 <br/>   
 
@@ -97,8 +97,8 @@ I am passionate about making cross-platform apps with .Net and open source.
   <hr>
   
 ### Spotify Playing 🎧
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
+###https://novatorem.vercel.app/api/spotify)
+![Spotify](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY?si=7f_nwqF_SbKnjWH3BlWGqg)
 
 <br/>
  
