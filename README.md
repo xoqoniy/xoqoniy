@@ -47,7 +47,7 @@ I am passionate about making cross-platform apps with .Net and open source.
 - Deep Learning
 
 
-![GitHub metrics](https://metrics.lecoq.io/Safarmurod)  <br>
+![GitHub metrics](https://metrics.lecoq.io/Safarmurod7)  <br>
 
 
 ## Languages and Framework:
@@ -74,7 +74,7 @@ I am passionate about making cross-platform apps with .Net and open source.
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashwanisng&layout=compact&theme=light"/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&count_private=true&show_icons=true&theme=light&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&count_private=true&show_icons=true&theme=light&line_height=27&v=5" alt="Safarmurod's GitHub Stats" />
 
 
 <br>
@@ -86,17 +86,12 @@ I am passionate about making cross-platform apps with .Net and open source.
 
 
 
-<br>
- <a href="https://github.com/ashwanisng/Vaccine-Finder">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Vaccine-Finder&theme=light" />
- </a>
-<br/>   
+
 
 <br/>
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ashwanisng)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Safarmurod7)
 
   
   <hr>
