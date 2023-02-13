@@ -47,7 +47,7 @@ I am passionate about making cross-platform apps with .Net and open source.
 - Deep Learning
 
 
-![GitHub metrics](https://metrics.lecoq.io/ashwanisng)  <br>
+![GitHub metrics](https://metrics.lecoq.io/Safarmurod)  <br>
 
 
 ## Languages and Framework:
