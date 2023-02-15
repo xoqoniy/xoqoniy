@@ -71,10 +71,10 @@ I am passionate about making cross-platform apps with .Net and open source.
 
 
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashwanisng&layout=compact&theme=light"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Safarmurod7&layout=compact&theme=light"/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&count_private=true&show_icons=true&theme=light&line_height=27&v=5" alt="Safarmurod's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Safarmurod7&&count_private=true&show_icons=true&theme=light&line_height=27&v=5" alt="Safarmurod's GitHub Stats" />
 
 
 <br>
@@ -98,7 +98,7 @@ I am passionate about making cross-platform apps with .Net and open source.
   
 ### Spotify Playing 🎧
 ###https://novatorem.vercel.app/api/spotify)
-![Spotify](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY?si=7f_nwqF_SbKnjWH3BlWGqg)
+![Spotify](https://novatorem.vercel.app/api/spotify)
 
 <br/>
  
