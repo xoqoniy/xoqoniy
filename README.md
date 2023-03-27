@@ -61,8 +61,8 @@ I am passionate about making cross-platform apps with .Net and open source.
 <img align="left" alt="GitHub" width="34px" src="https://jupyter.org/assets/main-logo.svg" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="dotNet" width="30px" src=["https://img.icons8.com/color/48/000000/flutter.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons4web.com%2Fproduct%2Fnet-icon-design-net-button-design%2F&psig=AOvVaw2N8tYYd-eQLXJ0rJ2Wahn7&ust=1679993060236000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODnzP7b-_0CFQAAAAAdAAAAABAR)"/>
-<img align="left" alt="C#" width="80px" src="[https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-dielu&psig=AOvVaw2N8tYYd-eQLXJ0rJ2Wahn7&ust=1679993060236000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODnzP7b-_0CFQAAAAAdAAAAABAE)"/>
+<img align="left" alt="dotNet" width="30px" src="https://strydotech.com/wp-content/uploads/2021/07/logo-dot-net-framework.png"/>
+<img align="left" alt="C#" width="80px" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png"/>
 <br>
 
 
