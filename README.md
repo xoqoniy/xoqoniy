@@ -79,12 +79,11 @@ I am passionate about making cross-platform apps with .Net and open source.
 
 <!-- <br>
  <a href="">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Safarmurod7&repo=Covid-19-Data-Analysis&theme=black" />
  </a>
-<br/>    -->
-
-
+<br/>   
+ -->
 
 
 
@@ -96,9 +95,9 @@ I am passionate about making cross-platform apps with .Net and open source.
   
   <hr>
   
-### Spotify Playing 🎧
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
+<!-- ### Spotify Playing 🎧 -->
+<!-- 
+![Spotify](https://novatorem.vercel.app/api/spotify) -->
 
 <br/>
  
@@ -108,7 +107,7 @@ I am passionate about making cross-platform apps with .Net and open source.
 
 
 
-<table>
+<!-- <table>
   <tr>
       <td><a href="https://github.com/Safarmurod7"><img src="https://img.shields.io/github/followers/ashwanisng.svg?label=GitHub&style=social" alt="GitHub"></a></td>
       <td><a href="https://twitter.com/Safarmurod_7"><img src="https://img.shields.io/twitter/follow/ashwanisng?label=Twitter&style=social" alt="Twitter"></a></td>
@@ -117,7 +116,7 @@ I am passionate about making cross-platform apps with .Net and open source.
       <td><a href="sm.ashurov7@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
   </tr>
 </table>
-
+ -->
   
   
   ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
