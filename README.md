@@ -8,7 +8,7 @@
 <a href="https://gkos.tech">
 <!-- +%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots -->
 
-I am Ashurov Safarmurod. 
+ 
 
 I am passionate about making cross-platform apps with .Net and open source. 
 <table>
@@ -23,7 +23,7 @@ I am passionate about making cross-platform apps with .Net and open source.
 
 
 
-
+![Safarmurod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Safarmurod7&theme=dark&show_icons=true)
 
 ## Technologies :fire:
 - .Net
