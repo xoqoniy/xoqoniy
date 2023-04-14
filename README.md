@@ -7,7 +7,7 @@
 
 <a href="https://gkos.tech">
 
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Safarmurod7&theme=algolia&show_icons=true)
  
 
 
