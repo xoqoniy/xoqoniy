@@ -13,13 +13,4 @@
 
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Safarmurod7/count.svg" />
-</p>
-
-
-<div align="center">
-
-</div>
 
