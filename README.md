@@ -23,7 +23,7 @@ I am passionate about making cross-platform apps with .Net and open source.
 
 
 
-![Safarmurod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Safarmurod7&theme=dark&show_icons=true)
+![Safarmurod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Safarmurod7&theme=chartreuse-dark_icons=true)
 
 ## Technologies :fire:
 - .Net
