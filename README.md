@@ -5,7 +5,14 @@
 <br/>
    
 
-<a href="https://gkos.tech">
+#<a href="https://gkos.tech">
+
+ <img src="https://profile-counter.glitch.me/Safarmurod7/count.svg?"  />
+</div>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=OtabekgithubJava&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Safarmurod7&theme=algolia&show_icons=true)
  
