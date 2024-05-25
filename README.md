@@ -6,7 +6,7 @@
    
 
 <a href="https://gkos.tech">
- 
+ [![Safarmurod's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Safarmurod7)](https://github.com/Safarmurod7/github-readme-stats)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Safarmurod7&theme=algolia&show_icons=true)
  
