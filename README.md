@@ -8,7 +8,9 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Safarmurod7&theme=algolia&show_icons=true)
  
-
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 
 
