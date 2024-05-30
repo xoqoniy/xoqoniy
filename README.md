@@ -8,6 +8,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Safarmurod7&theme=algolia&show_icons=true&count_private=true)
  
+  <img width=390 src="https://streak-stats.demolab.com/?user=OtabekgithubJava&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 
 
