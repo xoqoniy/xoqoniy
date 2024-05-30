@@ -7,8 +7,8 @@
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Safarmurod7&theme=algolia&show_icons=true&count_private=true)
- 
-  <img width=390 src="https://streak-stats.demolab.com/?user=Safarmurod_7&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Safarmurod_7&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
